@@ -5,5 +5,7 @@ public class MainText {
         System.out.println("hello git");
 
         System.out.println("main defend");
+
+        System.out.println("text defend");
     }
 }
